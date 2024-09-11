@@ -1,9 +1,10 @@
-import Skill from "./components/Skill";
+// import Skill from "./components/Skill";
+import TechSkills from "./components/TechSkills";
 
 function App() {
   return (
     <div className="App">
-      <Skill/>
+      <TechSkills/>
     </div>
   );
 }
