@@ -1,6 +1,6 @@
 function Skill(props) {
   return (
-    <div className="d-flex align-items-center border">
+    <div className="d-flex align-items-center border skill">
       <img
         src="/assets/1.png"
         alt="skill"
