@@ -1,0 +1,17 @@
+.skill {
+  width: auto;
+  max-width: 190px;
+  height: 76px;
+  background-color: #fae3ea;
+  border-radius: 16px;
+  gap: 10px;
+}
+
+.skill > p {
+  margin: 0px;
+}
+
+.skill > img {
+  width: 36px;
+  height: 36px;
+}
